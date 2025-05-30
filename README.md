@@ -643,7 +643,7 @@ document.getElementById('requestForm').addEventListener('submit', async function
 
 ---
 
-## Удачи ребят на экзамене
+## Удачи ребят на экзамене, не забудьте удалить этот файл после того как все сделали!
 
                       _
                       \`*-.
